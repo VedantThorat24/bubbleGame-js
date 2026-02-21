@@ -7,7 +7,7 @@ A simple number-matching game built using **HTML, CSS, and Vanilla JavaScript**.
 - Click bubbles that match the target number.
 - Each correct click gives **+10 points**.
 - You have **20 seconds** to score as much as possible.
-- Game shows final score when time ends.
+- Game shows final score when time end.
 
 ## 🛠️ Tech Used
 - HTML  
